@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:webdoan.database.windows.net;Initial Catalog=webandoansql;Integrated Security=True;user id=webdoannhanh;password=vanh.1101;MultipleActiveResultSets=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\EPU\ 2021-2022\\điện\ toán\ đám\ mây\\Websitebandoannhanh\\Websitebandoannhanh\\Websitebandoannhanh\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

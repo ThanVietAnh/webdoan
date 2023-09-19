@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\EPU 2021-2022\điện toán đám mây\Websitebandoannhanh\Websitebandoannhanh\Websitebandoannhanh\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\EPU 2021-2022\điện toán đám mây\Websitebandoannhanh\Websitebandoannhanh\Websitebandoannhanh\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\EPU 2021-2022\điện toán đám mây\Websitebandoannhanh\Websitebandoannhanh\Websitebandoannhanh\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
